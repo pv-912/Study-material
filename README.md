@@ -22,8 +22,16 @@
 - [Decision Tree](http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
 - [Tree Based Modeling in R and Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 
+
 ### Node Modules
 - [Nodemon](https://www.npmjs.com/package/nodemon) | Nodemon will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application.
 - [Coffee Script](http://coffeescript.org/)
 - [EJS](https://www.npmjs.com/package/ejs)
 - [Express Generator](https://expressjs.com/en/starter/generator.html) | Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. 
+- [DotEnv](https://www.npmjs.com/package/dotenv-extended) 
+
+### Sockets
+- [Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm) | Sockets allows communications between two different processes on the same or different machines.
+
+### Express
+-[Express](http://expressjs.com/en/api.html)
