@@ -11,6 +11,15 @@
 - [Time-Based Blind SQL Injection](http://www.sqlinjection.net/time-based/)
 - [Blind SQL Injection](https://www.owasp.org/index.php/Blind_SQL_Injection)
 
+### Apache
+- [Apache Server Setup](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu)
+- [Configure Apache Server](https://httpd.apache.org/docs/2.4/configuring.html)
+
+
+### mySql
+- [Installation](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04)
+- [Collation](https://dev.mysql.com/doc/refman/5.7/en/adding-collation.html)
+
 ### PostGres
 - [Tutorial for beginner](https://www.tutorialspoint.com/postgresql/index.htm)
 
@@ -23,3 +32,4 @@
 - [Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm) | Sockets allows communications between two different processes on the same or different machines.
 
 ### [NodeJS]()
+
