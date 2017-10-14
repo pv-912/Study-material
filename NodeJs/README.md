@@ -4,6 +4,8 @@
 
 - [Database Integration in express](https://expressjs.com/en/guide/database-integration.html#postgresql)
 
+- [Sequelise](http://docs.sequelizejs.com/) 
+
 #### Node Modules
 
 - [Nodemon](https://www.npmjs.com/package/nodemon) | Nodemon will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application.
