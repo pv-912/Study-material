@@ -13,7 +13,7 @@
 
 - [Adding SSH key](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
-- [Git hub Education Pack](https://education.github.com/) | Get Access to Make Private Repo.
+- [Git hub Education Pack](https://education.github.com/) : To get Access to Make Private Repo.
 
 #### Sql Security
 
@@ -25,7 +25,7 @@
 
 - [Blind SQL Injection](https://www.owasp.org/index.php/Blind_SQL_Injection)
 
--[MyISM Engine](https://dev.mysql.com/doc/refman/5.7/en/myisam-storage-engine.html) | 
+- [MyISM Engine](https://dev.mysql.com/doc/refman/5.7/en/myisam-storage-engine.html) | 
 
 #### Apache
 
@@ -52,11 +52,11 @@
 
 - [Cross Site Request Frogery](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
 
-- [CSRF Prevention](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet))
+- [CSRF Prevention](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet)
 
 #### Sockets
 
-- [Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm) | Sockets allows communications between two different processes on the same or different machines.
+- [Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm) allows communications between two different processes on the same or different machines.
 
 #### [NodeJS]()
 
