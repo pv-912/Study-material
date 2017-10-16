@@ -26,4 +26,7 @@
 
 - [bcrypt](https://www.npmjs.com/package/bcrypt): It is a lib. to help in hashing passwords.
  - [Blue Bird](http://bluebirdjs.com/docs/why-promises.html): A Promise LIbrary
+- [Axios](https://www.npmjs.com/package/axios) Promise based HTTP client for the browser and node.js
+
+
 
