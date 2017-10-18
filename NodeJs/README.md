@@ -7,6 +7,12 @@
 - [Sequelise](http://docs.sequelizejs.com/) 
 s a simple implementation of Promises. It is a super set of ES6 Promises designed to have readable, performant code and to provide just the extensions that are absolutely necessary for using promises today.
 
+
+#### React JS
+
+- [React for Beginner](https://reactjs.org/docs/hello-world.html)
+- [Redux](http://redux.js.org/docs/basics/UsageWithReact.html)
+
 - [Component and Props](https://reactjs.org/docs/components-and-props.html)
 
 #### Node Modules
