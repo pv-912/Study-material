@@ -58,5 +58,6 @@
 
 - [Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm) allows communications between two different processes on the same or different machines.
 
-#### [NodeJS]()
+#### JS
 
+- [Methods](https://www.tutorialspoint.com/http/http_methods.htm)
