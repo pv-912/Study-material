@@ -5,6 +5,9 @@
 - [Database Integration in express](https://expressjs.com/en/guide/database-integration.html#postgresql)
 
 - [Sequelise](http://docs.sequelizejs.com/) 
+s a simple implementation of Promises. It is a super set of ES6 Promises designed to have readable, performant code and to provide just the extensions that are absolutely necessary for using promises today.
+
+- [Component and Props](https://reactjs.org/docs/components-and-props.html)
 
 #### Node Modules
 
@@ -27,6 +30,7 @@
 - [bcrypt](https://www.npmjs.com/package/bcrypt): It is a lib. to help in hashing passwords.
  - [Blue Bird](http://bluebirdjs.com/docs/why-promises.html): A Promise LIbrary
 - [Axios](https://www.npmjs.com/package/axios) Promise based HTTP client for the browser and node.js
+-[Promise](https://www.npmjs.com/package/promise) is a simple implementation of Promises. It is a super set of ES6 Promises designed to have readable, performant code and to provide just the extensions that are absolutely necessary for using promises today.
 
 
 
