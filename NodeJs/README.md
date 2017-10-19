@@ -34,9 +34,9 @@ s a simple implementation of Promises. It is a super set of ES6 Promises designe
 - [Moment](https://www.npmjs.com/package/moment)  is a lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
 - [bcrypt](https://www.npmjs.com/package/bcrypt): It is a lib. to help in hashing passwords.
- - [Blue Bird](http://bluebirdjs.com/docs/why-promises.html): A Promise LIbrary
-- [Axios](https://www.npmjs.com/package/axios) Promise based HTTP client for the browser and node.js
--[Promise](https://www.npmjs.com/package/promise) is a simple implementation of Promises. It is a super set of ES6 Promises designed to have readable, performant code and to provide just the extensions that are absolutely necessary for using promises today.
+- [Blue Bird](http://bluebirdjs.com/docs/why-promises.html): A Promise LIbrary
+- [Axios](https://www.npmjs.com/package/axios) Promise based HTTP client for the browser and node.js based on AJAX
+- [Promise](https://www.npmjs.com/package/promise) is a simple implementation of Promises. It is a super set of ES6 Promises designed to have readable, performant code and to provide just the extensions that are absolutely necessary for using promises today.
 
-
+- [whatwg-fetch](https://www.npmjs.com/package/whatwg-fetch)Its fetch() function is a Promise-based mechanism for programmatically making web requests in the browser.
 
