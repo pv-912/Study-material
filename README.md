@@ -19,6 +19,8 @@
 
 - [Rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
+- [gitignore](https://help.github.com/articles/ignoring-files/)
+
 #### Sql Security
 
 - [Testing for SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
