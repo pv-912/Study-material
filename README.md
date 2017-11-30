@@ -17,6 +17,8 @@
 
 - [Cherry Pick](http://think-like-a-git.net/sections/rebase-from-the-ground-up/cherry-picking-explained.html)
 
+- [Rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
 #### Sql Security
 
 - [Testing for SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
