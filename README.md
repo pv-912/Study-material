@@ -21,6 +21,8 @@
 
 - [gitignore](https://help.github.com/articles/ignoring-files/)
 
+- [Multiple Git Account on One PC](http://mherman.org/blog/2013/09/16/managing-multiple-github-accounts/#.WiEttHWCzak)
+
 #### Sql Security
 
 - [Testing for SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
