@@ -1,4 +1,4 @@
-###Animations
+### Animations
 
 - [Range Sliders](http://seiyria.com/bootstrap-slider/)
 

@@ -1,11 +1,11 @@
-###Concept
+### Concept
 
-###Learning Site
+### Learning Site
 
 - [Tutorial Point](https://www.tutorialspoint.com/cplusplus/)
 
-###Practice At
+### Practice At
 - [Hacker Rank](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)
 
-###Compiler
+### Compiler
 - [Code Block (ubuntu)](https://askubuntu.com/questions/198442/how-to-install-the-codeblocks-ide)
