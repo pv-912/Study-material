@@ -1,5 +1,7 @@
 ### Concept
 
+- [Pointers](http://duramecho.com/ComputerInformation/WhyCPointers.html)
+
 ### Learning Site
 
 - [Tutorial Point](https://www.tutorialspoint.com/cplusplus/)
