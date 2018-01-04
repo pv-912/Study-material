@@ -33,7 +33,9 @@
 
 - [Blind SQL Injection](https://www.owasp.org/index.php/Blind_SQL_Injection)
 
-- [MyISM Engine](https://dev.mysql.com/doc/refman/5.7/en/myisam-storage-engine.html) | 
+- [MyISM Engine](https://dev.mysql.com/doc/refman/5.7/en/myisam-storage-engine.html)
+
+- [SQL MAP](http://www.linuxx.eu/2014/10/how-to-install-sqlmap-on-debian.html) | Check vuneriability of website.
 
 #### Apache
 
@@ -65,6 +67,9 @@
 #### Sockets
 
 - [Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm) allows communications between two different processes on the same or different machines.
+
+- [Curl Request](https://www.computerhope.com/unix/curl.htm)
+- [Curl FAQ's](https://curl.haxx.se/docs/faq.html)
 
 #### JS
 
