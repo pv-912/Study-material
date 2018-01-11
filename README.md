@@ -24,6 +24,7 @@
 - [Multiple Git Account on One PC](http://mherman.org/blog/2013/09/16/managing-multiple-github-accounts/#.WiEttHWCzak)
 - [Configure GoDaddy Custom Domains with GitHub](https://medium.com/@supriyakankure/how-to-add-a-custom-domain-to-your-github-page-with-godaddy-84495781143e)
 
+
 #### Sql Security
 
 - [Testing for SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
@@ -43,6 +44,8 @@
 - [Apache Server Setup](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu)
 
 - [Configure Apache Server](https://httpd.apache.org/docs/2.4/configuring.html)
+
+- [Convert your laptop/desktop into a server and host internet accessible website](https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-1-545940164ab9)
 
 
 #### mySql
