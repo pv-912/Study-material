@@ -24,6 +24,8 @@
 - [Multiple Git Account on One PC](http://mherman.org/blog/2013/09/16/managing-multiple-github-accounts/#.WiEttHWCzak)
 - [Configure GoDaddy Custom Domains with GitHub](https://medium.com/@supriyakankure/how-to-add-a-custom-domain-to-your-github-page-with-godaddy-84495781143e)
 
+- [Adding screenshots in markdown](https://www.tilcode.com/add-a-screenshot-to-your-github-repo-readme-md/)
+
 
 #### Sql Security
 
