@@ -26,6 +26,10 @@
 
 - [Adding screenshots in markdown](https://www.tilcode.com/add-a-screenshot-to-your-github-repo-readme-md/)
 
+- [A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)
+
+- [Template to write README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+
 
 #### Sql Security
 
