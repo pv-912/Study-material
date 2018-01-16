@@ -59,6 +59,8 @@
 
 - [OpenSSL (https certificate) ](https://www.openssl.org/docs/manmaster/man1/req.html)
 
+- [direct calling https request APIs ](https://gethttpsforfree.com/)
+
 
 #### mySql
 
