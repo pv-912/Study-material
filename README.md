@@ -30,6 +30,8 @@
 
 - [Template to write README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
+- [Adding more changes to last commit](https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8)
+
 
 #### Sql Security
 
