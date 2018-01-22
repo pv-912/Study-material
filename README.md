@@ -32,6 +32,8 @@
 
 - [Adding more changes to last commit](https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8)
 
+- [Contributing in open source](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+
 
 #### Sql Security
 
