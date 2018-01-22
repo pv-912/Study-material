@@ -59,6 +59,10 @@
 
 - [Convert your laptop/desktop into a server and host internet accessible website](https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-1-545940164ab9)
 
+- [OpenSSL (https certificate) ](https://www.openssl.org/docs/manmaster/man1/req.html)
+
+- [direct calling https request APIs ](https://gethttpsforfree.com/)
+
 
 #### mySql
 
