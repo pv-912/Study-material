@@ -7,3 +7,5 @@
 - [Diff. Animation](https://javascript.info/animation)
 
 - [Animation.css](http://www.cssportal.com/animate-css/#)
+
+- [Button animations](http://freefrontend.com/css-buttons/)
