@@ -19,7 +19,10 @@
 
 - [direct calling https request APIs ](https://gethttpsforfree.com/)
 
+- [certbot](https://certbot.eff.org/#ubuntutzesty-apache)
+
 - [NOHUP](https://www.slashroot.in/nohup-command-tutorial-linux-example-usage) | Run a Command or Shell-Script Even after Logout
+- [Disown](https://www.slashroot.in/disown-command-linux-explained-example-usage)
 
 
 #### CSRF
