@@ -3,7 +3,7 @@
 ##### Bash
 
 - [lsof commands](http://www.thegeekstuff.com/2012/08/lsof-command-examples)
-- [Writing bash script](https://www.linux.com/learn/writing-simple-bash-script)
+- [Writing bash script](https://linuxconfig.org/bash-scripting-tutorial)
 
 #### Apache
 
@@ -18,6 +18,8 @@
 - [OpenSSL (https certificate) ](https://www.openssl.org/docs/manmaster/man1/req.html)
 
 - [direct calling https request APIs ](https://gethttpsforfree.com/)
+
+- [NOHUP](https://www.slashroot.in/nohup-command-tutorial-linux-example-usage) | Run a Command or Shell-Script Even after Logout
 
 
 #### CSRF
