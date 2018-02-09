@@ -4,6 +4,8 @@
 
 - [Collation](https://dev.mysql.com/doc/refman/5.7/en/adding-collation.html)
 
+- [Selecting multiple column from different tables](https://www.codeproject.com/Questions/663441/Select-same-coulmn-twice-from-a-table-with-two-dif)
+
 #### PostGres
 
 - [Tutorial for beginner](https://www.tutorialspoint.com/postgresql/index.htm)
