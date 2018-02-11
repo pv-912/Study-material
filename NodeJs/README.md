@@ -15,6 +15,8 @@ s a simple implementation of Promises. It is a super set of ES6 Promises designe
 
 - [Component and Props](https://reactjs.org/docs/components-and-props.html)
 
+#### Deploy (heruko)
+- [Installation](https://devcenter.heroku.com/articles/heroku-cli#debian-ubuntu)
 #### Node Modules
 
 - [Nodemon](https://www.npmjs.com/package/nodemon)  will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application.
