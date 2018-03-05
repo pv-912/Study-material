@@ -6,6 +6,8 @@
 
 - [Selecting multiple column from different tables](https://www.codeproject.com/Questions/663441/Select-same-coulmn-twice-from-a-table-with-two-dif)
 
+- [Ueing JSON data in MySQL](https://www.sitepoint.com/use-json-data-fields-mysql-databases/)
+
 #### PostGres
 
 - [Tutorial for beginner](https://www.tutorialspoint.com/postgresql/index.htm)
