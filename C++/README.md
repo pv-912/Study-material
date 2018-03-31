@@ -1,6 +1,7 @@
 ### Concept
 
 - [Pointers](http://duramecho.com/ComputerInformation/WhyCPointers.html)
+- [Sorting Function](http://www.dreamincode.net/forums/topic/319433-stl-algorithms-tutorial-1-using-sort/)
 
 ### Learning Site
 
