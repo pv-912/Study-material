@@ -19,6 +19,7 @@ s a simple implementation of Promises. It is a super set of ES6 Promises designe
 - [webpack-when to use and why?](https://blog.andrewray.me/webpack-when-to-use-and-why/)
 
 #### Deploy (heruko)
+- [Initiating project with react, node and webpack](https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708)
 - [Installation](https://devcenter.heroku.com/articles/heroku-cli#debian-ubuntu)
 #### Node Modules
 
