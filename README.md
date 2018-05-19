@@ -1,5 +1,7 @@
 ## Reference Links
 
+- [Set Up an EmailID that Uses Your Domain Name (for eg : info@a.com)](https://problogger.com/how-to-set-up-an-email-account-that-uses-your-domain-name/)
+
 ##### Bash
 
 - [lsof commands](http://www.thegeekstuff.com/2012/08/lsof-command-examples)
