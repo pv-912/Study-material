@@ -27,3 +27,5 @@
 
 - [Contributing in open source](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
 - [Deleting commit from remote after pushing](https://ncona.com/2011/07/how-to-delete-a-commit-in-git-local-and-remote/)
+
+- [Reverting git reset --hard | Only staged files are revertable.](https://stackoverflow.com/questions/7374069/undo-git-reset-hard-with-uncommitted-files-in-the-staging-area)
