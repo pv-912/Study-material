@@ -9,6 +9,7 @@
 
 ### Debugging
 
+- [Use Sublime-Text for C++ Compilation](http://ketangupta.in/blog/competitive/sublimetext/2016/06/28/sublime-text-competitive-programming/)
 - [Debug using gdb](https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html)
 
 ### Learning Site
