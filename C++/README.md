@@ -6,6 +6,7 @@
 ](https://stackoverflow.com/questions/7271647/what-is-the-reason-for-using-a-double-pointer-when-adding-a-node-in-a-linked-lis)
 - [Iterators in C++](https://www.cs.northwestern.edu/~riesbeck/programming/c++/stl-iterator-define.html)
 - [Types of iterators](https://www.cs.northwestern.edu/~riesbeck/programming/c++/stl-iterators.html)
+- [STL for list, vector and Objects](http://www.yolinux.com/TUTORIALS/LinuxTutorialC++STL.html#LIST)
 
 ### Debugging
 
