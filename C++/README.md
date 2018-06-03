@@ -19,6 +19,8 @@
 ### Coding Tricks
 - [Write C++ efficiently in competitive prograaming.](https://www.geeksforgeeks.org/writing-cc-code-efficiently-in-competitive-programming/)
 
+- [Important function of Algorithm lib. ](https://www.geeksforgeeks.org/c-magicians-stl-algorithms/)
+
 ### Learning Site
 
 - [For Beginners](https://www.codesdope.com/practice/)
