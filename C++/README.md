@@ -16,6 +16,9 @@
 - [Use Sublime-Text for C++ Compilation](http://ketangupta.in/blog/competitive/sublimetext/2016/06/28/sublime-text-competitive-programming/)
 - [Debug using gdb](https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html)
 
+### Coding Tricks
+- [Write C++ efficiently in competitive prograaming.](https://www.geeksforgeeks.org/writing-cc-code-efficiently-in-competitive-programming/)
+
 ### Learning Site
 
 - [For Beginners](https://www.codesdope.com/practice/)
