@@ -18,6 +18,7 @@
 
 ### Coding Tricks
 - [Write C++ efficiently in competitive prograaming.](https://www.geeksforgeeks.org/writing-cc-code-efficiently-in-competitive-programming/)
+- [Fast I/O](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)
 
 - [Important function of Algorithm lib. ](https://www.geeksforgeeks.org/c-magicians-stl-algorithms/)
 
