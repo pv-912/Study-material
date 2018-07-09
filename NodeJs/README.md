@@ -1,14 +1,14 @@
 - [Basic Structure of react app with express server](https://medium.com/front-end-hacking/getting-started-with-your-react-app-with-express-server-1c701a3c6edb)
 - [Basic Login Flow React-Redux](http://jslancer.com/blog/2017/04/27/a-simple-login-flow-with-react-and-redux/)
 - [Login with Facebook and Google using ReactJS and RESTful APIs](https://www.9lessons.info/2017/11/reactjs-login-facebook-google-using-restful.html)
+#### JS
+- [Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT)
+
 #### Express
 
 - [Express](http://expressjs.com/en/api.html)
-
 - [Database Integration in express](https://expressjs.com/en/guide/database-integration.html#postgresql)
-
-- [Sequelise](http://docs.sequelizejs.com/) 
-s a simple implementation of Promises. It is a super set of ES6 Promises designed to have readable, performant code and to provide just the extensions that are absolutely necessary for using promises today.
+- [Sequelise](http://docs.sequelizejs.com/) It is a simple implementation of Promises. It is a super set of ES6 Promises designed to have readable, performant code and to provide just the extensions that are absolutely necessary for using promises today.
 
 
 #### React JS
@@ -30,12 +30,9 @@ s a simple implementation of Promises. It is a super set of ES6 Promises designe
 - [Nodemon](https://www.npmjs.com/package/nodemon)  will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application.
 
 - [Coffee Script](http://coffeescript.org/)
-
-- [EJS](https://www.npmjs.com/package/ejs)
-
 - [Express Generator](https://expressjs.com/en/starter/generator.html)  is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. 
 
-- [DotEnv](https://www.npmjs.com/package/dotenv-extended) 
+- [DotEnv](https://www.npmjs.com/package/dotenv-extended) For .env file
 
 - [pg-promise](https://www.npmjs.com/package/pg-promise) : Non-blocking PostgreSQL client for node.js or interface for PostgreSQL.
 
