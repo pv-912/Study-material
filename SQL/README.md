@@ -1,4 +1,4 @@
-#### mySql
+#### MySql
 
 - [Installation](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04)
 
@@ -14,7 +14,7 @@
 
 - [Manage Roles and Users](https://www.postgresql.org/docs/8.1/static/user-manag.html)
 
-#### Sql Security
+#### SQL Injection
 
 - [Testing for SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
 
