@@ -24,3 +24,4 @@
 ### Learning Site
 
 - [For Beginners](https://www.codesdope.com/practice/)
+- [C++ Concepts for beginners](http://www.fredosaurus.com/notes-cpp/index.html)
