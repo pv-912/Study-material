@@ -10,6 +10,7 @@
 - [Passing as constant or by references?](https://stackoverflow.com/questions/5060137/passing-as-const-and-by-reference-worth-it)
 - [uintptr_t Storing Pointers](https://stackoverflow.com/questions/1845482/what-is-uintptr-t-data-type/1846648#1846648)
 - [C++ OOPs](https://www.tutorialspoint.com/cplusplus/cpp_object_oriented.htm)
+- [Swallow and deep copy](https://www.hackerearth.com/practice/notes/deep-copy-and-shallow-copy/)
 ### Debugging
 
 - [Use Sublime-Text for C++ Compilation](http://ketangupta.in/blog/competitive/sublimetext/2016/06/28/sublime-text-competitive-programming/)
