@@ -12,6 +12,7 @@
 - [C++ OOPs](https://www.tutorialspoint.com/cplusplus/cpp_object_oriented.htm)
 - [Swallow and deep copy](https://www.hackerearth.com/practice/notes/deep-copy-and-shallow-copy/)
 - [Trie](https://codebeautiful.quora.com/Trie-using-C++-STL#)
+- [Polymorphism](https://www.quora.com/What-is-meant-by-run-time-polymorphism)
 ### Debugging
 
 - [Use Sublime-Text for C++ Compilation](http://ketangupta.in/blog/competitive/sublimetext/2016/06/28/sublime-text-competitive-programming/)
