@@ -1,6 +1,6 @@
 
 - [Basic Structure of react app with express server](https://medium.com/front-end-hacking/getting-started-with-your-react-app-with-express-server-1c701a3c6edb)
-- [Promises](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+- [Promises](http://exploringjs.com/es6/ch_promises.html)
 - [Basic Login Flow React-Redux](http://jslancer.com/blog/2017/04/27/a-simple-login-flow-with-react-and-redux/)
 - [Login with Facebook and Google using ReactJS and RESTful APIs](https://www.9lessons.info/2017/11/reactjs-login-facebook-google-using-restful.html)
 
