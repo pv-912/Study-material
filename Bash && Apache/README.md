@@ -26,6 +26,10 @@
 - [Curl FAQ's](https://curl.haxx.se/docs/faq.html)
 
 
+#### AWS
+- [Setting up MERN Stack on AWS EC2](https://medium.com/@Keithweaver_/setting-up-mern-stack-on-aws-ec2-6dc599be4737)
+
+
 #### CSRF
 
 - [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
