@@ -15,3 +15,4 @@
 - [ML Algorithms](https://medium.com/data-science-group-iitr/12-algos-12-days/home)
 - [Neural Networks && DL](http://neuralnetworksanddeeplearning.com/chap1.html#toward_deep_learning)
 - [OpenCV Configuration](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/)
+- [ML Algorithm Fun And Learn](https://www.youtube.com/watch?v=RPvLgzEybJU&index=1&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
