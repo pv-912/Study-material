@@ -16,3 +16,4 @@
 - [Neural Networks && DL](http://neuralnetworksanddeeplearning.com/chap1.html#toward_deep_learning)
 - [OpenCV Configuration](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/)
 - [ML Algorithm Fun And Learn](https://www.youtube.com/watch?v=RPvLgzEybJU&index=1&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
+- [Approaching ML Problems](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
