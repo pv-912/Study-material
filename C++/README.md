@@ -13,6 +13,9 @@
 - [Swallow and deep copy](https://www.hackerearth.com/practice/notes/deep-copy-and-shallow-copy/)
 - [Trie](https://codebeautiful.quora.com/Trie-using-C++-STL#)
 - [Polymorphism](https://www.quora.com/What-is-meant-by-run-time-polymorphism)
+- [GCC and Make Compiling, Linking and Building C/C++ Applications ](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-1.7)
+- [Options Controlling the Preprocessor ](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html)
+
 ### Debugging
 
 - [Use Sublime-Text for C++ Compilation](http://ketangupta.in/blog/competitive/sublimetext/2016/06/28/sublime-text-competitive-programming/)
