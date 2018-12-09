@@ -29,3 +29,5 @@
 - [Deleting commit from remote after pushing](https://ncona.com/2011/07/how-to-delete-a-commit-in-git-local-and-remote/)
 
 - [Reverting git reset --hard | Only staged files are revertable.](https://stackoverflow.com/questions/7374069/undo-git-reset-hard-with-uncommitted-files-in-the-staging-area)
+- [GitHub Actions.](https://developer.github.com/actions/?utm_source=announcement&utm_medium=email&utm_campaign=ww-actions-beta)
+
