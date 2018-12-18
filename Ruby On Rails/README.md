@@ -17,3 +17,7 @@
 ### Ruby Syntax
 
 - [Different brackets](https://stackoverflow.com/questions/7996695/what-is-the-difference-between-and-in-erb-in-rails)
+
+### Chrome Dev Shortcuts
+
+- [View on chrome tools](https://www.webnots.com/view-webpage-source-css-in-google-chrome/)
