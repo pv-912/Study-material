@@ -3,6 +3,7 @@
 - [Promises](http://exploringjs.com/es6/ch_promises.html)
 - [Basic Login Flow React-Redux](http://jslancer.com/blog/2017/04/27/a-simple-login-flow-with-react-and-redux/)
 - [Login with Facebook and Google using ReactJS and RESTful APIs](https://www.9lessons.info/2017/11/reactjs-login-facebook-google-using-restful.html)
+- [Setting up MERN stack on AWS-EC2 instance](https://medium.com/@Keithweaver_/setting-up-mern-stack-on-aws-ec2-6dc599be4737)
 
 #### JS/ES6
 - [Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT)
