@@ -31,3 +31,6 @@
 - [Reverting git reset --hard | Only staged files are revertable.](https://stackoverflow.com/questions/7374069/undo-git-reset-hard-with-uncommitted-files-in-the-staging-area)
 - [GitHub Actions.](https://developer.github.com/actions/?utm_source=announcement&utm_medium=email&utm_campaign=ww-actions-beta)
 
+- [Adding gitignore to existing repo](https://stackoverflow.com/questions/19663093/apply-gitignore-on-an-existing-repository-already-tracking-large-number-of-files)
+
+- [Removing files from git](https://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo)
