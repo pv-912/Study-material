@@ -5,7 +5,9 @@
 - [Tree Based Modeling in R and Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 
 ###### Data Visualisation
+- [Visualising data - Seaborn](http://seaborn.pydata.org/tutorial.html)
 - [Visualisation with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html)
+- [Pandas Profiling](http://nbviewer.jupyter.org/github/JosPolfliet/pandas-profiling/blob/master/examples/meteorites.ipynb)
 - [Python Grpah types](https://python-graph-gallery.com/)
 - [Tools for exploring data - DORA](https://github.com/NathanEpstein/Dora)
 

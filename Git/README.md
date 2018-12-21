@@ -34,3 +34,4 @@
 - [Adding gitignore to existing repo](https://stackoverflow.com/questions/19663093/apply-gitignore-on-an-existing-repository-already-tracking-large-number-of-files)
 
 - [Removing files from git](https://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo)
+- [Open Source Licensing](https://www.quora.com/How-do-I-properly-credit-an-original-codes-developer-for-her-open-source-contribution)
