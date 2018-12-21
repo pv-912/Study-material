@@ -3,10 +3,12 @@
 
 - [edX](https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/course/)	
 
-#### Data Science Algorithm
+#### Data Science
 - [Decision Tree](http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
 
 - [Tree Based Modeling in R and Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+
+- [Visualisation with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html)
 
 
 #### Machine learning
