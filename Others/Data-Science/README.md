@@ -5,13 +5,16 @@
 - [Tree Based Modeling in R and Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 
 ###### Data Visualisation
+- [Data Preprocessing Steps](https://hackernoon.com/what-steps-should-one-take-while-doing-data-preprocessing-502c993e1caa) :star:
 - [Visualising data - Seaborn](http://seaborn.pydata.org/tutorial.html)
 - [Visualisation with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html)
 - [Pandas Profiling](http://nbviewer.jupyter.org/github/JosPolfliet/pandas-profiling/blob/master/examples/meteorites.ipynb)
 - [Python Grpah types](https://python-graph-gallery.com/)
 - [Tools for exploring data - DORA](https://github.com/NathanEpstein/Dora)
 
+
 #### ML
+- [Common ML Algo using Sklearn](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 - [Essential Cheat sheet for ML & DL](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BB59rrDFeTreywwUqXw8RKg%3D%3D)
 - [ML Algorithms](https://medium.com/data-science-group-iitr/12-algos-12-days/home)
 - [Neural Networks && DL](http://neuralnetworksanddeeplearning.com/chap1.html#toward_deep_learning)
