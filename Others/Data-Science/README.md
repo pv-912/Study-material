@@ -12,6 +12,8 @@
 - [Python Grpah types](https://python-graph-gallery.com/)
 - [Tools for exploring data - DORA](https://github.com/NathanEpstein/Dora)
 
+#### Statistics
+- [Basic Stats Concept for DS](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
 
 #### ML
 - [Common ML Algo using Sklearn](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
