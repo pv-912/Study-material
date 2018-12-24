@@ -27,3 +27,6 @@
 #### R
 - [Text Mining and Feature Engineering](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/)
 - [edX](https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/course/)	
+
+#### Others
+- [Jupyter Notebbok on AWS EC2](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6)
