@@ -24,6 +24,8 @@
 - [ML Algorithm Fun And Learn](https://www.youtube.com/watch?v=RPvLgzEybJU&index=1&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
 - [Approaching ML Problems](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 - [LightGBM and Paramete Tuning](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
+- [SVC Parameter Tuning](https://medium.com/all-things-ai/in-depth-parameter-tuning-for-svc-758215394769)
+- [Cross-validations methods](https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f)
 
 #### R
 - [Text Mining and Feature Engineering](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/)
