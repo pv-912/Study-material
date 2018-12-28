@@ -21,3 +21,7 @@
 ### Chrome Dev Shortcuts
 
 - [View on chrome tools](https://www.webnots.com/view-webpage-source-css-in-google-chrome/)
+
+### React with rails
+
+- [Frontend in react and backend in rails](https://cognitiveclass.ai/blog/react-on-rails-tutorial-integrating-react-and-ruby-on-rails/#setting-up-react-on-rails)
