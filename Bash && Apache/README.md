@@ -28,6 +28,7 @@
 
 #### AWS
 - [Setting up MERN Stack on AWS EC2](https://medium.com/@Keithweaver_/setting-up-mern-stack-on-aws-ec2-6dc599be4737)
+- [Emailing via SES with gmail](http://www.daniloaz.com/en/use-gmail-with-your-own-domain-for-free-thanks-to-amazon-ses-lambda/)
 
 
 #### CSRF
