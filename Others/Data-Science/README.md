@@ -26,6 +26,7 @@
 - [LightGBM and Paramete Tuning](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
 - [SVC Parameter Tuning](https://medium.com/all-things-ai/in-depth-parameter-tuning-for-svc-758215394769)
 - [Cross-validations methods](https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f)
+- [Boosting ML Models](https://towardsdatascience.com/boosting-the-accuracy-of-your-machine-learning-models-f878d6a2d185)
 
 #### R
 - [Text Mining and Feature Engineering](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/)
