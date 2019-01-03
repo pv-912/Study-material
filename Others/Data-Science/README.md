@@ -28,6 +28,10 @@
 - [Cross-validations methods](https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f)
 - [Boosting ML Models](https://towardsdatascience.com/boosting-the-accuracy-of-your-machine-learning-models-f878d6a2d185)
 
+#### Scrapy
+- [Scraping Image](https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/)
+- [Item Loaders in Scrapy](https://doc.scrapy.org/en/latest/topics/loaders.html)
+
 #### R
 - [Text Mining and Feature Engineering](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/)
 - [edX](https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/course/)	
