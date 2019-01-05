@@ -15,7 +15,7 @@
 #### Statistics
 - [Basic Stats Concept for DS](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
 
-#### ML
+#### Algorithm
 - [Common ML Algo using Sklearn](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 - [Essential Cheat sheet for ML & DL](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BB59rrDFeTreywwUqXw8RKg%3D%3D)
 - [ML Algorithms](https://medium.com/data-science-group-iitr/12-algos-12-days/home)
@@ -23,6 +23,14 @@
 - [OpenCV Configuration](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/)
 - [ML Algorithm Fun And Learn](https://www.youtube.com/watch?v=RPvLgzEybJU&index=1&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
 - [Approaching ML Problems](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+- [LightGBM and Paramete Tuning](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
+- [SVC Parameter Tuning](https://medium.com/all-things-ai/in-depth-parameter-tuning-for-svc-758215394769)
+- [Cross-validations methods](https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f)
+- [Boosting ML Models](https://towardsdatascience.com/boosting-the-accuracy-of-your-machine-learning-models-f878d6a2d185)
+
+#### Scrapy
+- [Scraping Image](https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/)
+- [Item Loaders in Scrapy](https://doc.scrapy.org/en/latest/topics/loaders.html)
 
 #### R
 - [Text Mining and Feature Engineering](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/)
@@ -30,3 +38,4 @@
 
 #### Others
 - [Jupyter Notebbok on AWS EC2](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6)
+- [Crawling webpages using python-scrapy](https://learn.scrapinghub.com/scrapy/)
