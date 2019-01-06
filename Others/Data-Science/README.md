@@ -12,6 +12,9 @@
 - [Python Grpah types](https://python-graph-gallery.com/)
 - [Tools for exploring data - DORA](https://github.com/NathanEpstein/Dora)
 
+#### Neural Networks
+- [Beginner Intro to Neural Network](https://www.youtube.com/watch?v=EnGmg-kvpYs&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So&index=7)
+
 #### Statistics
 - [Basic Stats Concept for DS](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
 
