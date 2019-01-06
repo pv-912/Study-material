@@ -40,6 +40,9 @@
 - [ML Algo in python](https://www.youtube.com/playlist?list=PLh6SAYydrIpcmtLk_36nMx3NgiBUZfKNx)
 - [ML basic advance tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
+#### Notebooks
+- [CNN for begginer in Deep Learning](https://www.kaggle.com/aafrin/cnn-for-absolute-beginner-in-deep-learning-99-12/notebook)
+
 #### Scrapy
 - [Scraping Image](https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/)
 - [Item Loaders in Scrapy](https://doc.scrapy.org/en/latest/topics/loaders.html)
