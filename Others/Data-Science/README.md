@@ -13,7 +13,8 @@
 - [Tools for exploring data - DORA](https://github.com/NathanEpstein/Dora)
 
 #### Neural Networks
-- [Beginner Intro to Neural Network](https://www.youtube.com/watch?v=EnGmg-kvpYs&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So&index=7)
+- [Beginner Intro to Neural Network](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So&index=1)
+- [Deep learning with Tensor Flow Basics](https://www.youtube.com/watch?v=oYbVFhK_olY&index=1&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP)
 
 #### Statistics
 - [Basic Stats Concept for DS](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
