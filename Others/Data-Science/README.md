@@ -13,6 +13,7 @@
 - [Pandas Profiling](http://nbviewer.jupyter.org/github/JosPolfliet/pandas-profiling/blob/master/examples/meteorites.ipynb)
 - [Python Grpah types](https://python-graph-gallery.com/)
 - [Tools for exploring data - DORA](https://github.com/NathanEpstein/Dora)
+- [Data analysis with python and pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 
 #### Neural Networks
 - [Beginner Intro to Neural Network](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So&index=1)
@@ -21,6 +22,7 @@
 
 #### Statistics
 - [Basic Stats Concept for DS](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
+- [Continous probability distribution](https://www.youtube.com/playlist?list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0)
 
 #### Algorithm
 - [ML with scikit learn](https://www.youtube.com/playlist?list=PLonlF40eS6nynU5ayxghbz2QpDsUAyCVF)
@@ -36,6 +38,7 @@
 - [Cross-validations methods](https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f)
 - [Boosting ML Models](https://towardsdatascience.com/boosting-the-accuracy-of-your-machine-learning-models-f878d6a2d185)
 - [ML Algo in python](https://www.youtube.com/playlist?list=PLh6SAYydrIpcmtLk_36nMx3NgiBUZfKNx)
+- [ML basic advance tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 #### Scrapy
 - [Scraping Image](https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/)
