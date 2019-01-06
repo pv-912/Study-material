@@ -18,6 +18,7 @@
 #### Neural Networks
 - [Beginner Intro to Neural Network](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So&index=1)
 - [Deep learning with Tensor Flow Basics](https://www.youtube.com/watch?v=oYbVFhK_olY&index=1&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP)
+- [Tensor Flow Tutorials (CV tricks)](https://cv-tricks.com/how-to/freeze-tensorflow-models/)
 - [Tensor Flow Advance Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
 #### Statistics
@@ -42,6 +43,7 @@
 
 #### Notebooks
 - [CNN for begginer in Deep Learning](https://www.kaggle.com/aafrin/cnn-for-absolute-beginner-in-deep-learning-99-12/notebook)
+- [Tensorflow from beginner to advance](https://www.kaggle.com/ashishpatel26/tensorflow-for-beginner-to-advance)
 
 #### Scrapy
 - [Scraping Image](https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/)
