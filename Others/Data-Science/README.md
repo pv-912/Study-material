@@ -15,11 +15,13 @@
 #### Neural Networks
 - [Beginner Intro to Neural Network](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So&index=1)
 - [Deep learning with Tensor Flow Basics](https://www.youtube.com/watch?v=oYbVFhK_olY&index=1&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP)
+- [Tensor Flow Advance Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
 #### Statistics
 - [Basic Stats Concept for DS](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
 
 #### Algorithm
+- [ML with scikit learn](https://www.youtube.com/playlist?list=PLonlF40eS6nynU5ayxghbz2QpDsUAyCVF)
 - [Common ML Algo using Sklearn](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 - [Essential Cheat sheet for ML & DL](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BB59rrDFeTreywwUqXw8RKg%3D%3D)
 - [ML Algorithms](https://medium.com/data-science-group-iitr/12-algos-12-days/home)
