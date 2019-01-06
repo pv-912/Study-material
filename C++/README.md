@@ -22,6 +22,7 @@
 - [Debug using gdb](https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html)
 
 ### Coding Tricks
+- [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
 - [Write C++ efficiently in competitive prograaming.](https://www.geeksforgeeks.org/writing-cc-code-efficiently-in-competitive-programming/)
 - [Fast I/O](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)
 
