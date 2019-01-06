@@ -9,3 +9,4 @@
 - [JS Unminify](https://unminify.com/)
 
 - [SDLC Models](https://www.testbytes.net/blog/types-software-testing-models/)
+- [How does Internet works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)

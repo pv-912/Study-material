@@ -1,5 +1,7 @@
 
 #### Data Science
+- [ML Fun and easy learn](https://www.youtube.com/playlist?list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
+
 ###### Algorithm
 - [Decision Tree](http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
 - [Tree Based Modeling in R and Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
@@ -33,6 +35,7 @@
 - [SVC Parameter Tuning](https://medium.com/all-things-ai/in-depth-parameter-tuning-for-svc-758215394769)
 - [Cross-validations methods](https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f)
 - [Boosting ML Models](https://towardsdatascience.com/boosting-the-accuracy-of-your-machine-learning-models-f878d6a2d185)
+- [ML Algo in python](https://www.youtube.com/playlist?list=PLh6SAYydrIpcmtLk_36nMx3NgiBUZfKNx)
 
 #### Scrapy
 - [Scraping Image](https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/)
