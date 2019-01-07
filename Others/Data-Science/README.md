@@ -42,6 +42,7 @@
 - [ML basic advance tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 #### Notebooks
+- [ML Notebooks](https://sebastianraschka.com/notebooks/ml-notebooks.html)
 - [CNN for begginer in Deep Learning](https://www.kaggle.com/aafrin/cnn-for-absolute-beginner-in-deep-learning-99-12/notebook)
 - [Tensorflow from beginner to advance](https://www.kaggle.com/ashishpatel26/tensorflow-for-beginner-to-advance)
 
@@ -51,7 +52,8 @@
 
 #### R
 - [Text Mining and Feature Engineering](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/)
-- [edX](https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/course/)	
+- [edX](https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/course/)
+- [R && Rstudio installation with basic packages](https://gist.github.com/ElToro1966/999f1c8ca51a75648dd587a3170e4335)	
 
 #### Others
 - [Jupyter Notebbok on AWS EC2](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6)
