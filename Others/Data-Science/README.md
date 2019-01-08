@@ -58,6 +58,3 @@
 #### Others
 - [Jupyter Notebbok on AWS EC2](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6)
 - [Crawling webpages using python-scrapy](https://learn.scrapinghub.com/scrapy/)
-
-mkdir  -p  /home/legolas/OpenFOAM/OpenFOAM-in-Box
-cp  OpenFOAM-in-Box-18.10v01-r1207-installer.sh   /home/username/OpenFOAM/OpenFOAM-in-Box/ 
