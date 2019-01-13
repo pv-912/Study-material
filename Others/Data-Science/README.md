@@ -24,6 +24,8 @@
 #### Natural Language Processing
 - [Twitter sentiment analysis](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 - [Word Embeddings in NLP](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
+- [NLP is fun](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e) :star:
+- [NLP Processing and understading](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72) :star:
 - [Text Data Preprocessing: A Walkthrough in Python](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html)
 
 #### Statistics
