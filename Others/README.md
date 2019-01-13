@@ -1,3 +1,6 @@
+
+- [Data Science project flow for startups](https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d)
+
 #### Sockets
 
 - [Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm) allows communications between two different processes on the same or different machines.
