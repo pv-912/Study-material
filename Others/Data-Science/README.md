@@ -22,6 +22,8 @@
 - [Tensor Flow Advance Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
 #### Natural Language Processing
+- [Twitter sentiment analysis](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
+- [Word Embeddings in NLP](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
 - [Text Data Preprocessing: A Walkthrough in Python](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html)
 
 #### Statistics
