@@ -22,6 +22,7 @@
 - [Tensor Flow Advance Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
 #### Natural Language Processing
+- [NLP with scikit learn](https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a)
 - [Twitter sentiment analysis](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 - [Word Embeddings in NLP](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
 - [NLP is fun](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e) :star:
