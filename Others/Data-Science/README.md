@@ -21,6 +21,9 @@
 - [Tensor Flow Tutorials (CV tricks)](https://cv-tricks.com/how-to/freeze-tensorflow-models/)
 - [Tensor Flow Advance Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
+#### Natural Language Processing
+- [Text Data Preprocessing: A Walkthrough in Python](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html)
+
 #### Statistics
 - [Basic Stats Concept for DS](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
 - [Continous probability distribution](https://www.youtube.com/playlist?list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0)
@@ -49,6 +52,7 @@
 #### Scrapy
 - [Scraping Image](https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/)
 - [Item Loaders in Scrapy](https://doc.scrapy.org/en/latest/topics/loaders.html)
+- [Example of E-commerce website](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/)
 
 #### R
 - [Text Mining and Feature Engineering](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/)
