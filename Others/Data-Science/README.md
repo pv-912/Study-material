@@ -15,12 +15,15 @@
 - [Python Grpah types](https://python-graph-gallery.com/)
 - [Tools for exploring data - DORA](https://github.com/NathanEpstein/Dora)
 - [Data analysis with python and pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+- [Next Level of data visualisation](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
+
 
 #### Neural Networks
 - [Beginner Intro to Neural Network](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So&index=1)
 - [Deep learning with Tensor Flow Basics](https://www.youtube.com/watch?v=oYbVFhK_olY&index=1&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP)
 - [Tensor Flow Tutorials (CV tricks)](https://cv-tricks.com/how-to/freeze-tensorflow-models/)
 - [Tensor Flow Advance Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+- [Image Data Generator](https://medium.com/@arindambaidya168/https-medium-com-arindambaidya168-using-keras-imagedatagenerator-b94a87cdefad)
 
 #### Natural Language Processing
 - [NLP with scikit learn](https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a)
@@ -65,6 +68,12 @@
 - [edX](https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/course/)
 - [R && Rstudio installation with basic packages](https://gist.github.com/ElToro1966/999f1c8ca51a75648dd587a3170e4335)	
 
+#### Examples
+- [Buliding a book recommendation](https://towardsdatascience.com/building-a-book-recommendation-system-using-keras-1fba34180699)
+
+
 #### Others
+- [120 data science interview question](https://github.com/kojino/120-Data-Science-Interview-Questions?fbclid=IwAR03C4fOhQfn6b4eNp5yv8_GVOmyekaAiIq9xUzEwpLbqRSN-Tuyg2iFtaE)
 - [Jupyter Notebbok on AWS EC2](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6)
 - [Crawling webpages using python-scrapy](https://learn.scrapinghub.com/scrapy/)
+- [Amazing applications of deep learning](http://www.yaronhadad.com/deep-learning-most-amazing-applications/?fbclid=IwAR0u70cR3FNsn8z-vlwxmbMawPA0dfA5tYHtFN9O3BjEdHuyMu4P9J9ZrVY)
