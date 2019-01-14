@@ -1,7 +1,8 @@
 
 #### Data Science
 - [ML Fun and easy learn](https://www.youtube.com/playlist?list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
-
+- [ML Notebooks for beginners](https://github.com/maykulkarni/Machine-Learning-Notebooks)
+- [Big data fundamental slides(https://www.slideshare.net/DerekKane/)
 ###### Algorithm
 - [Decision Tree](http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
 - [Tree Based Modeling in R and Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
