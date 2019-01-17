@@ -14,6 +14,8 @@
 
 - [Manage Roles and Users](https://www.postgresql.org/docs/8.1/static/user-manag.html)
 
+#### GraphQL
+- [Basics of GraphQL](https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj?fbclid=IwAR2w6uKrRv73Cqb60VHm370Dfbd6Mp9WzlrWWHGqPMmXp0js08adJ73eHxY)
 #### SQL Injection
 
 - [Testing for SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))

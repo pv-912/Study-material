@@ -15,13 +15,15 @@
 - [Polymorphism](https://www.quora.com/What-is-meant-by-run-time-polymorphism)
 - [GCC and Make Compiling, Linking and Building C/C++ Applications ](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-1.7)
 - [Options Controlling the Preprocessor ](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html)
+- [C++ Advance Tutorial](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
 
 ### Debugging
-
 - [Use Sublime-Text for C++ Compilation](http://ketangupta.in/blog/competitive/sublimetext/2016/06/28/sublime-text-competitive-programming/)
 - [Debug using gdb](https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html)
 
 ### Coding Tricks
+- [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
 - [Write C++ efficiently in competitive prograaming.](https://www.geeksforgeeks.org/writing-cc-code-efficiently-in-competitive-programming/)
 - [Fast I/O](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)
 

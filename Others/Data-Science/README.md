@@ -1,5 +1,7 @@
 
 #### Data Science
+- [ML Fun and easy learn](https://www.youtube.com/playlist?list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
+
 ###### Algorithm
 - [Decision Tree](http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
 - [Tree Based Modeling in R and Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
@@ -11,11 +13,20 @@
 - [Pandas Profiling](http://nbviewer.jupyter.org/github/JosPolfliet/pandas-profiling/blob/master/examples/meteorites.ipynb)
 - [Python Grpah types](https://python-graph-gallery.com/)
 - [Tools for exploring data - DORA](https://github.com/NathanEpstein/Dora)
+- [Data analysis with python and pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+
+#### Neural Networks
+- [Beginner Intro to Neural Network](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So&index=1)
+- [Deep learning with Tensor Flow Basics](https://www.youtube.com/watch?v=oYbVFhK_olY&index=1&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP)
+- [Tensor Flow Tutorials (CV tricks)](https://cv-tricks.com/how-to/freeze-tensorflow-models/)
+- [Tensor Flow Advance Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
 #### Statistics
 - [Basic Stats Concept for DS](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
+- [Continous probability distribution](https://www.youtube.com/playlist?list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0)
 
 #### Algorithm
+- [ML with scikit learn](https://www.youtube.com/playlist?list=PLonlF40eS6nynU5ayxghbz2QpDsUAyCVF)
 - [Common ML Algo using Sklearn](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 - [Essential Cheat sheet for ML & DL](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BB59rrDFeTreywwUqXw8RKg%3D%3D)
 - [ML Algorithms](https://medium.com/data-science-group-iitr/12-algos-12-days/home)
@@ -27,6 +38,13 @@
 - [SVC Parameter Tuning](https://medium.com/all-things-ai/in-depth-parameter-tuning-for-svc-758215394769)
 - [Cross-validations methods](https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f)
 - [Boosting ML Models](https://towardsdatascience.com/boosting-the-accuracy-of-your-machine-learning-models-f878d6a2d185)
+- [ML Algo in python](https://www.youtube.com/playlist?list=PLh6SAYydrIpcmtLk_36nMx3NgiBUZfKNx)
+- [ML basic advance tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+
+#### Notebooks
+- [ML Notebooks](https://sebastianraschka.com/notebooks/ml-notebooks.html)
+- [CNN for begginer in Deep Learning](https://www.kaggle.com/aafrin/cnn-for-absolute-beginner-in-deep-learning-99-12/notebook)
+- [Tensorflow from beginner to advance](https://www.kaggle.com/ashishpatel26/tensorflow-for-beginner-to-advance)
 
 #### Scrapy
 - [Scraping Image](https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/)
@@ -34,7 +52,8 @@
 
 #### R
 - [Text Mining and Feature Engineering](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/)
-- [edX](https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/course/)	
+- [edX](https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/course/)
+- [R && Rstudio installation with basic packages](https://gist.github.com/ElToro1966/999f1c8ca51a75648dd587a3170e4335)	
 
 #### Others
 - [Jupyter Notebbok on AWS EC2](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6)

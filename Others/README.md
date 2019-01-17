@@ -9,3 +9,9 @@
 - [JS Unminify](https://unminify.com/)
 
 - [SDLC Models](https://www.testbytes.net/blog/types-software-testing-models/)
+- [How does Internet works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+
+#### OpenFoam
+
+- [Installation in Ubuntu](https://www.cfdsupport.com/install-openfoam-in-box.html)
+- [Intro to CFD](https://www.youtube.com/watch?v=mGSUIXye9j4&list=PLcOe4WUSsMkH6DLHpsYyveaqjKxnEnQqB)
