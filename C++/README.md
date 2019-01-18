@@ -17,6 +17,9 @@
 - [Options Controlling the Preprocessor ](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html)
 - [C++ Advance Tutorial](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
+### Graph Theory
+- [Basic Tutorial](https://www.youtube.com/watch?v=au1urh576YI&index=1&list=PL6aFkLM6Wp-rcuJXJVfQP1BEwyPR9LJKS)
+- [Advance](https://www.youtube.com/watch?v=eIb1cz06UwI&index=1&list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
 
 ### Debugging
 - [Use Sublime-Text for C++ Compilation](http://ketangupta.in/blog/competitive/sublimetext/2016/06/28/sublime-text-competitive-programming/)
