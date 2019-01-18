@@ -55,6 +55,11 @@
 - [ML Algo in python](https://www.youtube.com/playlist?list=PLh6SAYydrIpcmtLk_36nMx3NgiBUZfKNx)
 - [ML basic advance tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
+#### GraphLab
+- [Starting Graphlab](https://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
+- [quick build recommendation system](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
+
+
 #### Notebooks
 - [ML Notebooks](https://sebastianraschka.com/notebooks/ml-notebooks.html)
 - [CNN for begginer in Deep Learning](https://www.kaggle.com/aafrin/cnn-for-absolute-beginner-in-deep-learning-99-12/notebook)
@@ -70,6 +75,7 @@
 - [edX](https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/course/)
 - [R && Rstudio installation with basic packages](https://gist.github.com/ElToro1966/999f1c8ca51a75648dd587a3170e4335)	
 
+ 
 #### Examples
 - [Buliding a book recommendation](https://towardsdatascience.com/building-a-book-recommendation-system-using-keras-1fba34180699)
 - [Build a Handwritten Text Recognition System](https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5)
