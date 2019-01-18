@@ -21,6 +21,7 @@
 
 #### Neural Networks
 - [Beginner Intro to Neural Network](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So&index=1)
+- [Neural Network Tutorial](https://www.youtube.com/watch?v=YRMvQuutgS8&index=7&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 - [Deep learning with Tensor Flow Basics](https://www.youtube.com/watch?v=oYbVFhK_olY&index=1&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP)
 - [Tensor Flow Tutorials (CV tricks)](https://cv-tricks.com/how-to/freeze-tensorflow-models/)
 - [Tensor Flow Advance Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
