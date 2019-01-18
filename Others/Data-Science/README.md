@@ -23,7 +23,7 @@
 - [Deep learning with Tensor Flow Basics](https://www.youtube.com/watch?v=oYbVFhK_olY&index=1&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP)
 - [Tensor Flow Tutorials (CV tricks)](https://cv-tricks.com/how-to/freeze-tensorflow-models/)
 - [Tensor Flow Advance Tutorial](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
-- [Image Data Generator](https://medium.com/@arindambaidya168/https-medium-com-arindambaidya168-using-keras-imagedatagenerator-b94a87cdefad)
+- [Image Data Generator (Image augmentation)](https://medium.com/@arindambaidya168/https-medium-com-arindambaidya168-using-keras-imagedatagenerator-b94a87cdefad)
 
 #### Natural Language Processing
 - [NLP with scikit learn](https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a)
