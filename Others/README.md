@@ -19,3 +19,5 @@
 - [Installation in Ubuntu](https://www.cfdsupport.com/install-openfoam-in-box.html)
 - [Intro to CFD](https://www.youtube.com/watch?v=mGSUIXye9j4&list=PLcOe4WUSsMkH6DLHpsYyveaqjKxnEnQqB)
 - [Commands for lamps](https://lammps.sandia.gov/doc/commands_list.html)
+- [Flow Around Cylinder Cut](https://www.openfoam.com/documentation/tutorial-guide/tutorialse3.php)
+
