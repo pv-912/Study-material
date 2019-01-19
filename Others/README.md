@@ -20,4 +20,6 @@
 - [Intro to CFD](https://www.youtube.com/watch?v=mGSUIXye9j4&list=PLcOe4WUSsMkH6DLHpsYyveaqjKxnEnQqB)
 - [Commands for lamps](https://lammps.sandia.gov/doc/commands_list.html)
 - [Flow Around Cylinder Cut](https://www.openfoam.com/documentation/tutorial-guide/tutorialse3.php)
-
+- [OpenFoam Documentation Tutorials](https://wiki.openfoam.com/Tutorials)
+- [Openfoam Category wise Tutorials](https://wiki.openfoam.com/Categories)
+- [Steady-state simulation of incompressible laminar or turbulent flow](https://rheologic.net/sites/default/files/pdf/taylor_couette_tutorial-20160913.pdf)
