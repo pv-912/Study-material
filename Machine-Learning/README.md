@@ -3,6 +3,9 @@
 - [ML Fun and easy learn](https://www.youtube.com/playlist?list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
 - [ML Notebooks for beginners](https://github.com/maykulkarni/Machine-Learning-Notebooks)
 - [Big data fundamental slides](https://www.slideshare.net/DerekKane/)
+- [Diff between R^2 and adjusted R^2](https://www.listendata.com/2014/08/adjusted-r-squared.html)
+- [ML vs. DL](https://www.analyticsvidhya.com/blog/2017/04/comparison-between-deep-learning-machine-learning/)
+
 
 ###### Algorithm
 - [Decision Tree](http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
@@ -10,6 +13,7 @@
 
 ###### Data Visualisation
 - [Data Preprocessing Steps](https://hackernoon.com/what-steps-should-one-take-while-doing-data-preprocessing-502c993e1caa) :star:
+- [Data transformation — Skewness, normalization](https://medium.com/@TheDataGyan/day-8-data-transformation-skewness-normalization-and-much-more-4c144d370e55)
 - [Visualising data - Seaborn](http://seaborn.pydata.org/tutorial.html)
 - [Visualisation with Matplotlib](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html)
 - [Pandas Profiling](http://nbviewer.jupyter.org/github/JosPolfliet/pandas-profiling/blob/master/examples/meteorites.ipynb)
