@@ -8,8 +8,12 @@
 
 
 ###### Algorithm
+- [Optimisation Algorithms In NN](https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
 - [Decision Tree](http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
 - [Tree Based Modeling in R and Python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+- [Topic Modeling with LSA, pLSA, the-next-level-of-data-visualization-in-python-dd6e99039d5e](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
+- [Intro to gradient descent](https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/)
+- [Perceptron and backpropagation](https://medium.com/@jayeshbahire/perceptron-and-backpropagation-970d752f4e44)
 
 ###### Data Visualisation
 - [Data Preprocessing Steps](https://hackernoon.com/what-steps-should-one-take-while-doing-data-preprocessing-502c993e1caa) :star:
@@ -86,6 +90,7 @@
 - [Build a Handwritten Text Recognition System](https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5)
 
 #### Others
+- [Probability and Stats for programmers](https://medium.com/@geekrodion/course-probability-theory-and-statistics-for-programmers-353e20202620) :star:
 - [Contests Analytic Vidya](https://datahack.analyticsvidhya.com/contest/all/?utm_source=global-header)
 - [120 data science interview question](https://github.com/kojino/120-Data-Science-Interview-Questions?fbclid=IwAR03C4fOhQfn6b4eNp5yv8_GVOmyekaAiIq9xUzEwpLbqRSN-Tuyg2iFtaE)
 - [Jupyter Notebbok on AWS EC2](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6)
