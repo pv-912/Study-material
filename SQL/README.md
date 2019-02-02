@@ -16,6 +16,7 @@
 
 #### GraphQL
 - [Basics of GraphQL](https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj?fbclid=IwAR2w6uKrRv73Cqb60VHm370Dfbd6Mp9WzlrWWHGqPMmXp0js08adJ73eHxY)
+
 #### SQL Injection
 
 - [Testing for SQL Injection](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
@@ -29,3 +30,7 @@
 - [MyISM Engine](https://dev.mysql.com/doc/refman/5.7/en/myisam-storage-engine.html)
 
 - [SQL MAP](http://www.linuxx.eu/2014/10/how-to-install-sqlmap-on-debian.html) | Check vuneriability of website.
+
+
+#### Others
+- [Basic Questions in SQL](https://svrtechnologies.com/interview-question-answers/top-50-basic-sql-interview-questions-and-answers-pdf)

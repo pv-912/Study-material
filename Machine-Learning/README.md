@@ -7,8 +7,8 @@
 - [ML with scikit learn](https://www.youtube.com/playlist?list=PLonlF40eS6nynU5ayxghbz2QpDsUAyCVF)
 - [Essential Cheat sheet for ML & DL](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BB59rrDFeTreywwUqXw8RKg%3D%3D)
 - [Neural Networks && DL](http://neuralnetworksanddeeplearning.com/chap1.html#toward_deep_learning)
-
-
+- [Feature Selection Techniques](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/10.%20Feature%20Selection%20Techniques.ipynb) :star:
+- [Linear model for regression and classifcation](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/4.%20Linear%20Models%20for%20Classification%20%26%20Regression.ipynb) :star:
 #### Concepts
 - [Autoencoders](https://www.jeremyjordan.me/autoencoders/)
 - [LSTM](https://medium.com/@kangeugine/long-short-term-memory-lstm-concept-cb3283934359)
@@ -33,6 +33,9 @@
 - [Boosting ML Models](https://towardsdatascience.com/boosting-the-accuracy-of-your-machine-learning-models-f878d6a2d185)
 - [ML Algo in python](https://www.youtube.com/playlist?list=PLh6SAYydrIpcmtLk_36nMx3NgiBUZfKNx)
 - [ML basic advance tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+- [Clever Algorithms: Nature-Inspired Programming Recipes](http://cleveralgorithms.com/nature-inspired/index.html)
+- [Ensemble Learning](https://github.com/justmarkham/DAT5/blob/master/notebooks/17_ensembling.ipynb)
+- [CatBoost vs. LightGBM vs. xgBoost ](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
 ###### Data Visualisation
 - [Data Preprocessing Steps](https://hackernoon.com/what-steps-should-one-take-while-doing-data-preprocessing-502c993e1caa) :star:
@@ -67,6 +70,7 @@
 #### Statistics
 - [Basic Stats Concept for DS](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
 - [Continous probability distribution](https://www.youtube.com/playlist?list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0)
+- [Conditional Probability](https://www.analyticsvidhya.com/blog/2017/03/conditional-probability-bayes-theorem/)
 
 #### GraphLab
 - [Starting Graphlab](https://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
@@ -102,3 +106,5 @@
 - [Amazing applications of deep learning](http://www.yaronhadad.com/deep-learning-most-amazing-applications/?fbclid=IwAR0u70cR3FNsn8z-vlwxmbMawPA0dfA5tYHtFN9O3BjEdHuyMu4P9J9ZrVY)
 - [OpenCV Configuration](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/)
 - [ML Interview Questions](https://www.springboard.com/blog/machine-learning-interview-questions/)
+- [ML MCQ Questions](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/)
+- [Technique to understand ML Algorithm](https://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)

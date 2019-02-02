@@ -3,6 +3,7 @@
 - [Removing ppa](https://askubuntu.com/questions/307/how-can-ppas-be-removed)
 - [lsof commands](http://www.thegeekstuff.com/2012/08/lsof-command-examples)
 - [Writing bash script](https://linuxconfig.org/bash-scripting-tutorial)
+- [Processor Info](https://www.binarytides.com/linux-cpu-information/)
 
 #### Docker
 - [Docker Cheatsheet](https://github.com/eon01/DockerCheatSheet)
