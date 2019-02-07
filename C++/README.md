@@ -21,7 +21,7 @@
 - [Basic Tutorial](https://www.youtube.com/watch?v=au1urh576YI&index=1&list=PL6aFkLM6Wp-rcuJXJVfQP1BEwyPR9LJKS)
 - [Advance](https://www.youtube.com/watch?v=eIb1cz06UwI&index=1&list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
 - [I don't understand graph theory](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
-
+- [How to think in graph theory](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 ### Debugging
 - [Use Sublime-Text for C++ Compilation](http://ketangupta.in/blog/competitive/sublimetext/2016/06/28/sublime-text-competitive-programming/)
 - [Debug using gdb](https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html)

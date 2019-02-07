@@ -36,6 +36,8 @@
 - [Clever Algorithms: Nature-Inspired Programming Recipes](http://cleveralgorithms.com/nature-inspired/index.html)
 - [Ensemble Learning](https://github.com/justmarkham/DAT5/blob/master/notebooks/17_ensembling.ipynb)
 - [CatBoost vs. LightGBM vs. xgBoost ](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+- [Decision Tree. It Begins Here](https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134)
+- [Recurrent Neural Network Basics Tutorial](https://www.youtube.com/watch?v=y7qrilE-Zlc&list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg&index=10)
 
 ###### Data Visualisation
 - [Data Preprocessing Steps](https://hackernoon.com/what-steps-should-one-take-while-doing-data-preprocessing-502c993e1caa) :star:
@@ -58,6 +60,9 @@
 - [Image Data Generator (Image augmentation)](https://medium.com/@arindambaidya168/https-medium-com-arindambaidya168-using-keras-imagedatagenerator-b94a87cdefad)
 - [Recommender system on the Movielens dataset using an Autoencoder and Tensorflow in Python](https://medium.com/@connectwithghosh/recommender-system-on-the-movielens-using-an-autoencoder-using-tensorflow-in-python-f13d3e8d600d)
 
+#### OpenCV
+- [Image stitching Using OpenCV](https://towardsdatascience.com/@vagdevi.k15)
+
 #### Natural Language Processing
 - [NLP with scikit learn](https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a)
 - [Twitter sentiment analysis](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
@@ -66,6 +71,8 @@
 - [NLP Processing and understading](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72) :star:
 - [Text Data Preprocessing: A Walkthrough in Python](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html)
 - [Recommender System](https://www.datacamp.com/community/tutorials/recommender-systems-python) :star:
+- [Clean Text ML](https://machinelearningmastery.com/clean-text-machine-learning-python/)
+- [The beginner’s guide to extracting data from PDFs](http://mediahack.co.za/2017/06/beginners-guide-extracting-data-pdfs/)
 
 #### Statistics
 - [Basic Stats Concept for DS](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
@@ -86,6 +93,7 @@
 - [Scraping Image](https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/)
 - [Item Loaders in Scrapy](https://doc.scrapy.org/en/latest/topics/loaders.html)
 - [Example of E-commerce website](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/)
+- [Bayes Theorem](https://www.mathsisfun.com/data/bayes-theorem.html)
 
 #### R
 - [Text Mining and Feature Engineering](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/)
