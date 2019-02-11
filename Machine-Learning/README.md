@@ -38,6 +38,9 @@
 - [CatBoost vs. LightGBM vs. xgBoost ](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 - [Decision Tree. It Begins Here](https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134)
 - [Recurrent Neural Network Basics Tutorial](https://www.youtube.com/watch?v=y7qrilE-Zlc&list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg&index=10)
+- [Dropout : A way to prevent model from overfitting](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+- [Intro to separable convolutional](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)
+- [PCA, LDA, t-SNE](https://www.kaggle.com/arthurtok/interactive-intro-to-dimensionality-reduction)
 
 ###### Data Visualisation
 - [Data Preprocessing Steps](https://hackernoon.com/what-steps-should-one-take-while-doing-data-preprocessing-502c993e1caa) :star:

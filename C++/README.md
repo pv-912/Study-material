@@ -16,6 +16,7 @@
 - [GCC and Make Compiling, Linking and Building C/C++ Applications ](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-1.7)
 - [Options Controlling the Preprocessor ](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html)
 - [C++ Advance Tutorial](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- [40 Key Concept](http://carlcheo.com/compsci)
 
 ### Graph Theory
 - [Basic Tutorial](https://www.youtube.com/watch?v=au1urh576YI&index=1&list=PL6aFkLM6Wp-rcuJXJVfQP1BEwyPR9LJKS)
