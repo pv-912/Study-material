@@ -8,6 +8,7 @@
 #### Docker
 - [Docker Cheatsheet](https://github.com/eon01/DockerCheatSheet)
 - [Docker tutorial	](https://docker-curriculum.com/) :star:
+- [Redis setup with docker](https://docs.docker.com/get-started/part2/)
 
 #### Web Servers
 - [Guide to caching](https://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/)

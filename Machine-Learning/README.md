@@ -9,9 +9,13 @@
 - [Neural Networks && DL](http://neuralnetworksanddeeplearning.com/chap1.html#toward_deep_learning)
 - [Feature Selection Techniques](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/10.%20Feature%20Selection%20Techniques.ipynb) :star:
 - [Linear model for regression and classifcation](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/4.%20Linear%20Models%20for%20Classification%20%26%20Regression.ipynb) :star:
+
+
 #### Concepts
+- [Hypothesis testing](https://towardsdatascience.com/hypothesis-testing-in-real-life-47f42420b1f7)
 - [Autoencoders](https://www.jeremyjordan.me/autoencoders/)
 - [LSTM](https://medium.com/@kangeugine/long-short-term-memory-lstm-concept-cb3283934359)
+- [Fundamentals of LSTM](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/) :star:
 - [Diff between R^2 and adjusted R^2](https://www.listendata.com/2014/08/adjusted-r-squared.html)
 - [Approaching ML Problems](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 - [LightGBM and Paramete Tuning](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
@@ -19,6 +23,8 @@
 - [Cross-validations methods](https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f)
 - [PCA](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/) :star:
 - [ANCOVA](https://www.statisticssolutions.com/analysis-of-covariance-ancova/)
+- [Word Embedding with Genism](https://machinelearningmastery.com/develop-word-embeddings-python-gensim/)
+- [Model Evalution Metrics](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
 
 ###### Algorithm
 - [Optimisation Algorithms In NN](https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
@@ -41,6 +47,10 @@
 - [Dropout : A way to prevent model from overfitting](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - [Intro to separable convolutional](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)
 - [PCA, LDA, t-SNE](https://www.kaggle.com/arthurtok/interactive-intro-to-dimensionality-reduction)
+- [An Intuitive Explanation of Connectionist Temporal Classification (CTC)](https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c)
+- [Beam Search Decoding in CTC](https://towardsdatascience.com/beam-search-decoding-in-ctc-trained-neural-networks-5a889a3d85a7)
+- [Word Beam Search: A CTC Decoding Algorithm](https://towardsdatascience.com/word-beam-search-a-ctc-decoding-algorithm-b051d28f3d2e)
+
 
 ###### Data Visualisation
 - [Data Preprocessing Steps](https://hackernoon.com/what-steps-should-one-take-while-doing-data-preprocessing-502c993e1caa) :star:
@@ -86,6 +96,9 @@
 - [Starting Graphlab](https://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
 - [quick build recommendation system](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
 
+#### Research Papers
+- [Connectionist Temporal Classification (CTC): Labelling Unsegmented
+Sequence Data with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
 
 #### Notebooks
 - [ML Notebooks](https://sebastianraschka.com/notebooks/ml-notebooks.html)
