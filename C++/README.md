@@ -17,6 +17,8 @@
 - [Options Controlling the Preprocessor ](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html)
 - [C++ Advance Tutorial](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 - [40 Key Concept](http://carlcheo.com/compsci)
+- [Advance C++ Conncepts Of Using Libraries](http://tldp.org/HOWTO/Program-Library-HOWTO/index.html)
+- [Advance C++ Guide For Linker](http://www.lurklurk.org/linkers/linkers.html)
 
 ### Graph Theory
 - [Basic Tutorial](https://www.youtube.com/watch?v=au1urh576YI&index=1&list=PL6aFkLM6Wp-rcuJXJVfQP1BEwyPR9LJKS)
@@ -38,3 +40,4 @@
 
 - [For Beginners](https://www.codesdope.com/practice/)
 - [C++ Concepts for beginners](http://www.fredosaurus.com/notes-cpp/index.html)
+- [Learning OpenGL Beginners in C++](http://www.opengl-tutorial.org/beginners-tutorials/)
