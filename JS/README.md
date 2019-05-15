@@ -1,4 +1,6 @@
 
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Basic Structure of react app with express server](https://medium.com/front-end-hacking/getting-started-with-your-react-app-with-express-server-1c701a3c6edb)
 - [Promises](http://exploringjs.com/es6/ch_promises.html)
 - [Basic Login Flow React-Redux](http://jslancer.com/blog/2017/04/27/a-simple-login-flow-with-react-and-redux/)
@@ -25,6 +27,11 @@
 - [Component and Props](https://reactjs.org/docs/components-and-props.html)
 - [ReactJs Tutorial For Beginner](https://www.youtube.com/watch?v=pgAvVxowaYU)
 - [React-Redux Tutorial](https://www.youtube.com/watch?v=93p3LxR9xfM)
+
+#### Redux
+- [Redux-Thunk vs. Redux-Saga](https://medium.com/@shoshanarosenfield/redux-thunk-vs-redux-saga-93fe82878b2d)
+- [Redux Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)
+
 
 #### Webpack
 - [webpack-when to use and why?](https://blog.andrewray.me/webpack-when-to-use-and-why/)
