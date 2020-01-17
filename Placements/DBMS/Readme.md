@@ -1,0 +1,2 @@
+- [Implementation of Locking in DBMS](https://www.geeksforgeeks.org/implementation-of-locking-in-dbms/)
+- [Recoverability in DBMS](https://www.geeksforgeeks.org/recoverability-in-dbms/)

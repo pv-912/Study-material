@@ -1,0 +1,2 @@
+- [ SDLC Phases, Methodologies, Process, And Models](https://www.softwaretestinghelp.com/software-development-life-cycle-sdlc/)
+- [SDLC Tutorial: What is, Phases, Model](https://www.guru99.com/software-development-life-cycle-tutorial.html)
